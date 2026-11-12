@@ -1,6 +1,6 @@
 Syed Ali
 
-Power BI and data consultant in London, Ontario. I have 9+ years of experience in BI, SQL and Microsoft Fabric, and I now build AI automations with LLMs, n8n and Python.
+Power BI and Data consultant in London, Ontario. I have 9+ years of experience in BI, SQL and Microsoft Fabric, and I now build AI automations with LLMs, n8n and Python.
 
 Currently: studying for the AWS Certified Data Engineer – Associate, and running WiredWitty, my Shopify apparel brand
 Open to: Power BI, Microsoft fabric, data engineering and AI automation roles in Canada or remote Projects
