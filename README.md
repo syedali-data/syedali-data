@@ -1,4 +1,4 @@
-Syed Mohammed Medhi Ali
+Syed Ali
 
 Power BI and data consultant in London, Ontario. I have 9+ years of experience in BI, SQL and Microsoft Fabric, and I now build AI automations with LLMs, n8n and Python.
 
