@@ -5,6 +5,7 @@ Power BI and data consultant in London, Ontario. I have 9+ years of experience i
 Currently: studying for the AWS Certified Data Engineer – Associate, and running WiredWitty, my Shopify apparel brand
 Open to: Power BI, Microsoft fabric, data engineering and AI automation roles in Canada or remote Projects
 
+Projects:
 ADS RouteHub :	Lead routing platform that matches leads to local buyers, with 6-tier fallback routing	React, TypeScript, Supabase, Twilio
 LocalPulse :	Local market research and AI newsletters from Google Maps data	React, Supabase, n8n, Apify
 Agentic-Ecom: Multi-agent AI system for e-commerce, with human approval for risky actions	Python, FastAPI, GPT-4o, Claude
